@@ -1,4 +1,4 @@
-# NCB2021
+# Rac1
 
 Codes used in the manuscript "Local temporal Rac1-GTP nadirs and peaks restrict cell protrusions and retractions".
 
