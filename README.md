@@ -8,6 +8,6 @@ RhoA.m processes the window sampled RhoA FRET biosensor and traction force data 
 
 SummaryPlot.m plots the results from Rac.m and RhoA.m.
 
-PARac1Q61L.m processes and plots the optogenetic data from cells expressing PA-Rac1 (Q61L) constracts.
+PARac1Q61L.m processes and plots the optogenetic data from cells expressing PA-Rac1 (Q61L) constructs.
 
-PARac1T17N.m processes and plots the optogenetic data from cells expressing PA-Rac1 (T17N) constracts.
+PARac1T17N.m processes and plots the optogenetic data from cells expressing PA-Rac1 (T17N) constructs.
